@@ -34,7 +34,7 @@ print 'opts',opts
 # end of py2exe stuff
 
 setup(name='RunVMSWithPythonCard_WithResults',
-    version='0.1',
+    version='0.2',
     url='about:none',
     author='bikastanti',
     author_email='btanti@integus.in',
